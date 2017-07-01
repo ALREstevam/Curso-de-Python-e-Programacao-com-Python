@@ -1,3 +1,5 @@
+#Entrada e saídade dados
+
 dia = input('Dia: ')
 mes = input('Mes: ')
 ano = input('Ano: ')
