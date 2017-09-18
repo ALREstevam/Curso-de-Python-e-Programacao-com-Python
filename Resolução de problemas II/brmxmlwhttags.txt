@@ -1,0 +1,8872 @@
+DIAGRAMA
+InfoDiagrama
+Versao
+_Valor 3.0.0
+Autores
+Observacao
+Width
+_Valor 4096
+Height
+_Valor 4096
+Alinhamento_v
+_Valor 50
+Alinhamento_h
+_Valor 60
+Zoom
+_Valor 100
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Localizacao
+_Left 1258
+_Top 505
+_ID 1
+Entidade
+Bounds
+_Height 46
+_Left 1395
+_Top 1427
+_Width 101
+Texto Cliente
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 5
+Bounds
+_Height 46
+_Left 1539
+_Top 1659
+_Width 101
+Texto Conta
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 7
+Bounds
+_Height 46
+_Left 2256
+_Top 668
+_Width 101
+Texto Interessado
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 9
+Bounds
+_Height 46
+_Left 1979
+_Top 1652
+_Width 101
+Texto Wi-fi
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 10
+Bounds
+_Height 46
+_Left 2261
+_Top 1757
+_Width 101
+Texto Lojista
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 36
+Bounds
+_Height 46
+_Left 1741
+_Top 668
+_Width 101
+Texto Administracao
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 37
+Bounds
+_Height 46
+_Left 2557
+_Top 1186
+_Width 101
+Texto Fornecedor
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 76
+Bounds
+_Height 46
+_Left 2675
+_Top 860
+_Width 101
+Texto Loja
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 80
+Bounds
+_Height 46
+_Left 1491
+_Top 474
+_Width 101
+Texto Empresa Manutencao
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 99
+Bounds
+_Height 46
+_Left 975
+_Top 781
+_Width 101
+Texto Vaga de Cliente
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 111
+Bounds
+_Height 46
+_Left 1046
+_Top 401
+_Width 101
+Texto Estacionamento
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 112
+Bounds
+_Height 46
+_Left 705
+_Top 782
+_Width 101
+Texto Vaga de Lojista
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 116
+Bounds
+_Height 46
+_Left 972
+_Top 1132
+_Width 101
+Texto Tiquete
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 171
+Bounds
+_Height 46
+_Left 2336
+_Top 284
+_Width 101
+Texto Mensalidade
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 225
+Bounds
+_Height 46
+_Left 1543
+_Top 171
+_Width 101
+Texto Espaco
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 235
+Bounds
+_Height 46
+_Left 1997
+_Top 795
+_Width 101
+Texto Achados e Perdidos
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 282
+Bounds
+_Height 46
+_Left 2067
+_Top 985
+_Width 101
+Texto Classificacao
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 285
+Bounds
+_Height 46
+_Left 1834
+_Top 1105
+_Width 101
+Texto Objeto
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 286
+Bounds
+_Height 46
+_Left 1239
+_Top 940
+_Width 101
+Texto Fraldario
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 316
+Bounds
+_Height 46
+_Left 1659
+_Top 1159
+_Width 101
+Texto Evento
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 344
+Bounds
+_Height 46
+_Left 1859
+_Top 1429
+_Width 101
+Texto inscricao
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 346
+Bounds
+_Height 46
+_Left 1309
+_Top 331
+_Width 101
+Texto Tipo
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+_ID 1318
+Relacionamento
+Bounds
+_Height 46
+_Left 1387
+_Top 1556
+_Width 112
+Texto cria
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 15
+Bounds
+_Height 46
+_Left 1742
+_Top 1653
+_Width 112
+Texto acessa
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 24
+Bounds
+_Height 46
+_Left 2019
+_Top 669
+_Width 112
+Texto procura
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 39
+Bounds
+_Height 46
+_Left 2505
+_Top 868
+_Width 112
+Texto tem(2)
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 82
+Bounds
+_Height 46
+_Left 2543
+_Top 1023
+_Width 112
+Texto fornece para
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 89
+Bounds
+_Height 46
+_Left 1483
+_Top 595
+_Width 112
+Texto contrata
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 97
+Bounds
+_Height 46
+_Left 899
+_Top 595
+_Width 112
+Texto composto por(2)
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 120
+Bounds
+_Height 46
+_Left 1079
+_Top 604
+_Width 112
+Texto composto por
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 121
+Bounds
+_Height 46
+_Left 969
+_Top 1329
+_Width 112
+Texto recebe
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 143
+Bounds
+_Height 46
+_Left 973
+_Top 924
+_Width 112
+Texto usado em
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 191
+Bounds
+_Height 46
+_Left 701
+_Top 1009
+_Width 112
+Texto usa
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 208
+Bounds
+_Height 46
+_Left 1893
+_Top 226
+_Width 112
+Texto tem(3)
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 224
+Bounds
+_Height 46
+_Left 1714
+_Top 357
+_Width 112
+Texto alugados com
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 239
+Bounds
+_Height 46
+_Left 1843
+_Top 722
+_Width 112
+Texto gerencia
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 283
+Bounds
+_Height 46
+_Left 1780
+_Top 920
+_Width 112
+Texto guarda
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 293
+Bounds
+_Height 46
+_Left 2063
+_Top 1146
+_Width 112
+Texto possui(2)
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 303
+Bounds
+_Height 46
+_Left 1452
+_Top 811
+_Width 112
+Texto repoe produto
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 314
+Bounds
+_Height 46
+_Left 1440
+_Top 1074
+_Width 112
+Texto registra
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 345
+Bounds
+_Height 46
+_Left 1659
+_Top 1429
+_Width 112
+Texto faz
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 348
+Bounds
+_Height 46
+_Left 1854
+_Top 1298
+_Width 112
+Texto usada em
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 349
+Bounds
+_Height 46
+_Left 1540
+_Top 328
+_Width 112
+Texto possui
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 1323
+Bounds
+_Height 50
+_Left 2634
+_Top 346
+_Width 150
+Texto fica em
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 1415
+Bounds
+_Height 50
+_Left 2231
+_Top 947
+_Width 150
+Texto se torna
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 1538
+Ligacao
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 24
+_PontaB 7
+Pontos
+Ponto
+_Left 1739
+_Top 1673
+_Left 1688
+_Top 1673
+_Left 1688
+_Top 1673
+_Left 1637
+_Top 1673
+Cardinalidade
+Bounds
+_Height 15
+_Left 1647
+_Top 1660
+_Width 35
+Texto Cardinalidade_1
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 2
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 29
+_ID 28
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 64
+_PontaB 9
+Pontos
+Ponto
+_Left 1945
+_Top 499
+_Left 1945
+_Top 587
+_Left 2293
+_Top 587
+_Left 2293
+_Top 664
+Cardinalidade
+Bounds
+_Height 15
+_Left 2260
+_Top 645
+_Width 35
+Texto Cardinalidade_3
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 3
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 67
+_ID 66
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 64
+_PontaB 37
+Pontos
+Ponto
+_Left 1875
+_Top 479
+_Left 1768
+_Top 479
+_Left 1768
+_Top 664
+Cardinalidade
+Bounds
+_Height 15
+_Left 1735
+_Top 645
+_Width 35
+Texto Cardinalidade_4
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 69
+_ID 68
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 82
+_PontaB 80
+Pontos
+Ponto
+_Left 2614
+_Top 888
+_Left 2643
+_Top 888
+_Left 2643
+_Top 887
+_Left 2671
+_Top 887
+Cardinalidade
+Bounds
+_Height 15
+_Left 2632
+_Top 874
+_Width 35
+Texto Cardinalidade_5
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 2
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 84
+_ID 83
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 89
+_PontaB 80
+Pontos
+Ponto
+_Left 2596
+_Top 1020
+_Left 2596
+_Top 961
+_Left 2727
+_Top 961
+_Left 2727
+_Top 903
+Cardinalidade
+Bounds
+_Height 15
+_Left 2694
+_Top 913
+_Width 35
+Texto Cardinalidade_7
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 2
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 92
+_ID 91
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 89
+_PontaB 76
+Pontos
+Ponto
+_Left 2596
+_Top 1066
+_Left 2596
+_Top 1124
+_Left 2594
+_Top 1124
+_Left 2594
+_Top 1182
+Cardinalidade
+Bounds
+_Height 15
+_Left 2561
+_Top 1163
+_Width 35
+Texto Cardinalidade_8
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 2
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 94
+_ID 93
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 121
+_PontaB 112
+Pontos
+Ponto
+_Left 1132
+_Top 601
+_Left 1132
+_Top 522
+_Left 1131
+_Top 522
+_Left 1131
+_Top 444
+Cardinalidade
+Bounds
+_Height 15
+_Left 1098
+_Top 454
+_Width 35
+Texto Cardinalidade_13
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 128
+_ID 127
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 121
+_PontaB 111
+Pontos
+Ponto
+_Left 1132
+_Top 647
+_Left 1132
+_Top 712
+_Left 1062
+_Top 712
+_Left 1062
+_Top 777
+Cardinalidade
+Bounds
+_Height 15
+_Left 1029
+_Top 758
+_Width 35
+Texto Cardinalidade_14
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 2
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 136
+_ID 135
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 143
+_PontaB 5
+Pontos
+Ponto
+_Left 1022
+_Top 1372
+_Left 1022
+_Top 1452
+_Left 1391
+_Top 1452
+Cardinalidade
+Bounds
+_Height 15
+_Left 1352
+_Top 1439
+_Width 35
+Texto Cardinalidade_15
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 2
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 150
+_ID 149
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 143
+_PontaB 171
+Pontos
+Ponto
+_Left 1022
+_Top 1326
+_Left 1022
+_Top 1250
+_Left 1021
+_Top 1250
+_Left 1021
+_Top 1175
+Cardinalidade
+Bounds
+_Height 15
+_Left 988
+_Top 1185
+_Width 35
+Texto Cardinalidade_16
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 174
+_ID 173
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 191
+_PontaB 111
+Pontos
+Ponto
+_Left 1026
+_Top 921
+_Left 1026
+_Top 872
+_Left 1025
+_Top 872
+_Left 1025
+_Top 824
+Cardinalidade
+Bounds
+_Height 15
+_Left 992
+_Top 834
+_Width 35
+Texto Cardinalidade_18
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 195
+_ID 194
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 208
+_PontaB 116
+Pontos
+Ponto
+_Left 754
+_Top 1006
+_Left 754
+_Top 915
+_Left 753
+_Top 915
+_Left 753
+_Top 825
+Cardinalidade
+Bounds
+_Height 15
+_Left 720
+_Top 835
+_Width 35
+Texto Cardinalidade_19
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 217
+_ID 216
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 224
+_PontaB 225
+Pontos
+Ponto
+_Left 2002
+_Top 246
+_Left 2167
+_Top 246
+_Left 2167
+_Top 308
+_Left 2332
+_Top 308
+Cardinalidade
+Bounds
+_Height 15
+_Left 2293
+_Top 295
+_Width 35
+Texto Cardinalidade_20
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 229
+_ID 228
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 224
+_PontaB 65
+Pontos
+Ponto
+_Left 1946
+_Top 269
+_Left 1946
+_Top 360
+_Left 1947
+_Top 360
+_Left 1947
+_Top 450
+Cardinalidade
+Bounds
+_Height 15
+_Left 1914
+_Top 431
+_Width 35
+Texto Cardinalidade_21
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 232
+_ID 231
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 239
+_PontaB 235
+Pontos
+Ponto
+_Left 1711
+_Top 377
+_Left 1676
+_Top 377
+_Left 1676
+_Top 194
+_Left 1641
+_Top 194
+Cardinalidade
+Bounds
+_Height 15
+_Left 1651
+_Top 181
+_Width 35
+Texto Cardinalidade_22
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 244
+_ID 243
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 239
+_PontaB 65
+Pontos
+Ponto
+_Left 1767
+_Top 400
+_Left 1767
+_Top 425
+_Left 1885
+_Top 425
+_Left 1885
+_Top 450
+Cardinalidade
+Bounds
+_Height 15
+_Left 1852
+_Top 431
+_Width 35
+Texto Cardinalidade_23
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 246
+_ID 245
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 82
+_PontaB 36
+Pontos
+Ponto
+_Left 2502
+_Top 888
+_Left 2430
+_Top 888
+_Left 2430
+_Top 1773
+_Left 2359
+_Top 1773
+Cardinalidade
+Bounds
+_Height 15
+_Left 2369
+_Top 1760
+_Width 35
+Texto Cardinalidade_6
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 271
+_ID 270
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 39
+_PontaB 37
+Pontos
+Ponto
+_Left 2016
+_Top 689
+_Left 1927
+_Top 689
+_Left 1927
+_Top 688
+_Left 1839
+_Top 688
+Cardinalidade
+Bounds
+_Height 15
+_Left 1849
+_Top 675
+_Width 35
+Texto Cardinalidade_2
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 275
+_ID 274
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 39
+_PontaB 9
+Pontos
+Ponto
+_Left 2128
+_Top 689
+_Left 2190
+_Top 689
+_Left 2190
+_Top 690
+_Left 2252
+_Top 690
+Cardinalidade
+Bounds
+_Height 15
+_Left 2213
+_Top 677
+_Width 35
+Texto Cardinalidade_24
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 3
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 281
+_ID 280
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 283
+_PontaB 37
+Pontos
+Ponto
+_Left 1840
+_Top 742
+_Left 1804
+_Top 742
+_Left 1804
+_Top 711
+Cardinalidade
+Bounds
+_Height 15
+_Left 1771
+_Top 721
+_Width 35
+Texto Cardinalidade_25
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 290
+_ID 289
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 283
+_PontaB 282
+Pontos
+Ponto
+_Left 1952
+_Top 742
+_Left 2033
+_Top 742
+_Left 2033
+_Top 791
+Cardinalidade
+Bounds
+_Height 15
+_Left 2000
+_Top 772
+_Width 35
+Texto Cardinalidade_26
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 297
+_ID 296
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 286
+_PontaB 293
+Pontos
+Ponto
+_Left 1882
+_Top 1101
+_Left 1882
+_Top 1032
+_Left 1833
+_Top 1032
+_Left 1833
+_Top 963
+Cardinalidade
+Bounds
+_Height 15
+_Left 1849
+_Top 1082
+_Width 35
+Texto Cardinalidade_27
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 3
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 301
+_ID 300
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 303
+_PontaB 286
+Pontos
+Ponto
+_Left 2060
+_Top 1166
+_Left 1889
+_Top 1166
+_Left 1889
+_Top 1148
+Cardinalidade
+Bounds
+_Height 15
+_Left 1856
+_Top 1158
+_Width 35
+Texto Cardinalidade_28
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 2
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 306
+_ID 305
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 303
+_PontaB 285
+Pontos
+Ponto
+_Left 2116
+_Top 1143
+_Left 2116
+_Top 1085
+_Left 2115
+_Top 1085
+_Left 2115
+_Top 1028
+Cardinalidade
+Bounds
+_Height 15
+_Left 2082
+_Top 1038
+_Width 35
+Texto Cardinalidade_29
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 308
+_ID 307
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 314
+_PontaB 316
+Pontos
+Ponto
+_Left 1449
+_Top 831
+_Left 1283
+_Top 831
+_Left 1283
+_Top 936
+Cardinalidade
+Bounds
+_Height 15
+_Left 1250
+_Top 917
+_Width 35
+Texto Cardinalidade_31
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 324
+_ID 323
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 208
+_PontaB 36
+Pontos
+Ponto
+_Left 754
+_Top 1052
+_Left 754
+_Top 1779
+_Left 2257
+_Top 1779
+Cardinalidade
+Bounds
+_Height 15
+_Left 2218
+_Top 1766
+_Width 35
+Texto Cardinalidade_12
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 336
+_ID 335
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 120
+_PontaB 116
+Pontos
+Ponto
+_Left 952
+_Top 638
+_Left 952
+_Top 708
+_Left 752
+_Top 708
+_Left 752
+_Top 778
+Cardinalidade
+Bounds
+_Height 15
+_Left 719
+_Top 759
+_Width 35
+Texto Cardinalidade_17
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 2
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 342
+_ID 341
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 348
+_PontaB 5
+Pontos
+Ponto
+_Left 1656
+_Top 1449
+_Left 1574
+_Top 1449
+_Left 1574
+_Top 1450
+_Left 1493
+_Top 1450
+Cardinalidade
+Bounds
+_Height 15
+_Left 1503
+_Top 1437
+_Width 35
+Texto Cardinalidade_32
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 3
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 351
+_ID 350
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 348
+_PontaB 346
+Pontos
+Ponto
+_Left 1768
+_Top 1449
+_Left 1812
+_Top 1449
+_Left 1812
+_Top 1451
+_Left 1855
+_Top 1451
+Cardinalidade
+Bounds
+_Height 15
+_Left 1816
+_Top 1438
+_Width 35
+Texto Cardinalidade_33
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 3
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 353
+_ID 352
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 344
+_PontaB 349
+Pontos
+Ponto
+_Left 1712
+_Top 1202
+_Left 1712
+_Top 1248
+_Left 1907
+_Top 1248
+_Left 1907
+_Top 1295
+Cardinalidade
+Bounds
+_Height 15
+_Left 1679
+_Top 1212
+_Width 35
+Texto Cardinalidade_34
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 355
+_ID 354
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 37
+_PontaB 345
+Pontos
+Ponto
+_Left 1774
+_Top 711
+_Left 1774
+_Top 891
+_Left 1493
+_Top 891
+_Left 1493
+_Top 1071
+Cardinalidade
+Bounds
+_Height 15
+_Left 1741
+_Top 721
+_Width 35
+Texto Cardinalidade_35
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 358
+_ID 357
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 345
+_PontaB 344
+Pontos
+Ponto
+_Left 1493
+_Top 1117
+_Left 1493
+_Top 1182
+_Left 1655
+_Top 1182
+Cardinalidade
+Bounds
+_Height 15
+_Left 1616
+_Top 1169
+_Width 35
+Texto Cardinalidade_36
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 2
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 360
+_ID 359
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 37
+_PontaB 365
+Pontos
+Ponto
+_Left 1772
+_Top 664
+_Left 1772
+_Top 610
+_Left 1860
+_Top 610
+_ID 366
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 369
+_PontaB 37
+Pontos
+Ponto
+_Left 1861
+_Top 625
+_Left 1790
+_Top 625
+_Left 1790
+_Top 664
+_ID 371
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 374
+_PontaB 37
+Pontos
+Ponto
+_Left 1861
+_Top 642
+_Left 1802
+_Top 642
+_Left 1802
+_Top 664
+_ID 375
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 377
+_PontaB 65
+Pontos
+Ponto
+_Left 1988
+_Top 410
+_Left 1979
+_Top 410
+_Left 1979
+_Top 433
+_Left 1979
+_Top 433
+_Left 1979
+_Top 450
+_ID 384
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 381
+_PontaB 65
+Pontos
+Ponto
+_Left 2005
+_Top 425
+_Left 1996
+_Top 425
+_Left 1996
+_Top 441
+_Left 1996
+_Top 441
+_Left 1996
+_Top 450
+_ID 385
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 378
+_PontaB 65
+Pontos
+Ponto
+_Left 2064
+_Top 460
+_Left 2045
+_Top 460
+_Left 2045
+_Top 460
+_Left 2025
+_Top 460
+_ID 386
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 396
+_PontaB 225
+Pontos
+Ponto
+_Left 2377
+_Top 223
+_Left 2368
+_Top 223
+_Left 2368
+_Top 255
+_Left 2368
+_Top 255
+_Left 2368
+_Top 280
+_ID 407
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 225
+_PontaB 402
+Pontos
+Ponto
+_Left 2377
+_Top 280
+_Left 2377
+_Top 263
+_Left 2377
+_Top 263
+_Left 2377
+_Top 240
+_Left 2386
+_Top 240
+_ID 408
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 380
+_PontaB 65
+Pontos
+Ponto
+_Left 2064
+_Top 472
+_Left 2045
+_Top 472
+_Left 2045
+_Top 472
+_Left 2025
+_Top 472
+_ID 420
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 423
+_PontaB 225
+Pontos
+Ponto
+_Left 2402
+_Top 256
+_Left 2393
+_Top 256
+_Left 2393
+_Top 271
+_Left 2393
+_Top 271
+_Left 2393
+_Top 280
+_ID 425
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 400
+_PontaB 10
+Pontos
+Ponto
+_Left 1997
+_Top 1608
+_Left 1988
+_Top 1608
+_Left 1988
+_Top 1631
+_Left 1988
+_Top 1631
+_Left 1988
+_Top 1648
+_ID 430
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 401
+_PontaB 10
+Pontos
+Ponto
+_Left 2011
+_Top 1624
+_Left 2002
+_Top 1624
+_Left 2002
+_Top 1639
+_Left 2002
+_Top 1639
+_Left 2002
+_Top 1648
+_ID 434
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 443
+_PontaB 7
+Pontos
+Ponto
+_Left 1602
+_Top 1625
+_Left 1593
+_Top 1625
+_Left 1593
+_Top 1643
+_Left 1593
+_Top 1643
+_Left 1593
+_Top 1655
+_ID 446
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 445
+_PontaB 7
+Pontos
+Ponto
+_Left 1616
+_Top 1640
+_Left 1607
+_Top 1640
+_Left 1607
+_Top 1650
+_Left 1607
+_Top 1650
+_Left 1607
+_Top 1655
+_ID 447
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 459
+_PontaB 457
+Pontos
+Ponto
+_Left 1580
+_Top 1386
+_Left 1560
+_Top 1386
+_Left 1560
+_Top 1393
+_Left 1540
+_Top 1393
+_ID 460
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 461
+_PontaB 457
+Pontos
+Ponto
+_Left 1580
+_Top 1401
+_Left 1560
+_Top 1401
+_Left 1560
+_Top 1393
+_Left 1540
+_Top 1393
+_ID 462
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 450
+_PontaB 5
+Pontos
+Ponto
+_Left 1459
+_Top 1363
+_Left 1450
+_Top 1363
+_Left 1450
+_Top 1396
+_Left 1450
+_Top 1396
+_Left 1450
+_Top 1423
+_ID 476
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 453
+_PontaB 5
+Pontos
+Ponto
+_Left 1467
+_Top 1378
+_Left 1458
+_Top 1378
+_Left 1458
+_Top 1403
+_Left 1458
+_Top 1403
+_Left 1458
+_Top 1423
+_ID 477
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 457
+_PontaB 5
+Pontos
+Ponto
+_Left 1474
+_Top 1393
+_Left 1465
+_Top 1393
+_Left 1465
+_Top 1411
+_Left 1465
+_Top 1411
+_Left 1465
+_Top 1423
+_ID 478
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 97
+_PontaB 99
+Pontos
+Ponto
+_Left 1536
+_Top 592
+_Left 1536
+_Top 554
+_Left 1537
+_Top 554
+_Left 1537
+_Top 517
+Cardinalidade
+Bounds
+_Height 15
+_Left 1504
+_Top 527
+_Width 35
+Texto Cardinalidade_9
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 2
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 494
+_ID 493
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 97
+_PontaB 37
+Pontos
+Ponto
+_Left 1592
+_Top 615
+_Left 1665
+_Top 615
+_Left 1665
+_Top 691
+_Left 1737
+_Top 691
+Cardinalidade
+Bounds
+_Height 15
+_Left 1698
+_Top 678
+_Width 35
+Texto Cardinalidade_10
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 497
+_ID 496
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 314
+_PontaB 37
+Pontos
+Ponto
+_Left 1561
+_Top 831
+_Left 1746
+_Top 831
+_Left 1746
+_Top 711
+Cardinalidade
+Bounds
+_Height 15
+_Left 1713
+_Top 721
+_Width 35
+Texto Cardinalidade_30
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 499
+_ID 498
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 481
+_PontaB 99
+Pontos
+Ponto
+_Left 1446
+_Top 477
+_Left 1466
+_Top 477
+_Left 1466
+_Top 477
+_Left 1487
+_Top 477
+_ID 503
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 485
+_PontaB 99
+Pontos
+Ponto
+_Left 1447
+_Top 490
+_Left 1467
+_Top 490
+_Left 1467
+_Top 490
+_Left 1487
+_Top 490
+_ID 504
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 452
+_PontaB 99
+Pontos
+Ponto
+_Left 1449
+_Top 508
+_Left 1468
+_Top 508
+_Left 1468
+_Top 508
+_Left 1487
+_Top 508
+_ID 508
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 442
+_PontaB 97
+Pontos
+Ponto
+_Left 1565
+_Top 663
+_Left 1556
+_Top 663
+_Left 1556
+_Top 648
+_Left 1556
+_Top 648
+_Left 1556
+_Top 648
+_Left 1556
+_Top 631
+_ID 514
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 483
+_PontaB 97
+Pontos
+Ponto
+_Left 1545
+_Top 678
+_Left 1536
+_Top 678
+_Left 1536
+_Top 655
+_Left 1536
+_Top 655
+_Left 1536
+_Top 655
+_Left 1536
+_Top 638
+_ID 515
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 484
+_PontaB 97
+Pontos
+Ponto
+_Left 1527
+_Top 693
+_Left 1518
+_Top 693
+_Left 1518
+_Top 663
+_Left 1518
+_Top 663
+_Left 1518
+_Top 663
+_Left 1518
+_Top 631
+_ID 516
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 482
+_PontaB 171
+Pontos
+Ponto
+_Left 1066
+_Top 1104
+_Left 1057
+_Top 1104
+_Left 1057
+_Top 1119
+_Left 1057
+_Top 1119
+_Left 1057
+_Top 1128
+_ID 528
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 518
+_PontaB 171
+Pontos
+Ponto
+_Left 1109
+_Top 1141
+_Left 1090
+_Top 1141
+_Left 1090
+_Top 1141
+_Left 1070
+_Top 1141
+_ID 532
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 524
+_PontaB 171
+Pontos
+Ponto
+_Left 1109
+_Top 1152
+_Left 1090
+_Top 1152
+_Left 1090
+_Top 1152
+_Left 1070
+_Top 1152
+_ID 533
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 526
+_PontaB 171
+Pontos
+Ponto
+_Left 1109
+_Top 1168
+_Left 1090
+_Top 1168
+_Left 1090
+_Top 1168
+_Left 1070
+_Top 1168
+_ID 534
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 541
+_PontaB 111
+Pontos
+Ponto
+_Left 1115
+_Top 785
+_Left 1094
+_Top 785
+_Left 1094
+_Top 785
+_Left 1073
+_Top 785
+_ID 545
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 540
+_PontaB 111
+Pontos
+Ponto
+_Left 1115
+_Top 799
+_Left 1094
+_Top 799
+_Left 1094
+_Top 799
+_Left 1073
+_Top 799
+_ID 546
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 539
+_PontaB 112
+Pontos
+Ponto
+_Left 1072
+_Top 328
+_Left 1060
+_Top 328
+_Left 1060
+_Top 397
+_ID 547
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 550
+_PontaB 116
+Pontos
+Ponto
+_Left 851
+_Top 793
+_Left 827
+_Top 793
+_Left 827
+_Top 793
+_Left 803
+_Top 793
+_ID 553
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 538
+_PontaB 111
+Pontos
+Ponto
+_Left 1115
+_Top 815
+_Left 1094
+_Top 815
+_Left 1094
+_Top 815
+_Left 1073
+_Top 815
+_ID 564
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 567
+_PontaB 116
+Pontos
+Ponto
+_Left 851
+_Top 813
+_Left 827
+_Top 813
+_Left 827
+_Top 813
+_Left 803
+_Top 813
+_ID 568
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 665
+_PontaB 112
+Pontos
+Ponto
+_Left 1059
+_Top 294
+_Left 1047
+_Top 294
+_Left 1047
+_Top 397
+_ID 669
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 666
+_PontaB 112
+Pontos
+Ponto
+_Left 1090
+_Top 358
+_Left 1078
+_Top 358
+_Left 1078
+_Top 397
+_ID 670
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 682
+_PontaB 285
+Pontos
+Ponto
+_Left 2125
+_Top 957
+_Left 2116
+_Top 957
+_Left 2116
+_Top 972
+_Left 2116
+_Top 972
+_Left 2116
+_Top 981
+_ID 685
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 676
+_PontaB 285
+Pontos
+Ponto
+_Left 2109
+_Top 942
+_Left 2100
+_Top 942
+_Left 2100
+_Top 964
+_Left 2100
+_Top 964
+_Left 2100
+_Top 981
+_ID 686
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 690
+_PontaB 286
+Pontos
+Ponto
+_Left 1971
+_Top 1125
+_Left 1952
+_Top 1125
+_Left 1952
+_Top 1125
+_Left 1932
+_Top 1125
+_ID 698
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 697
+_PontaB 286
+Pontos
+Ponto
+_Left 1971
+_Top 1136
+_Left 1952
+_Top 1136
+_Left 1952
+_Top 1136
+_Left 1932
+_Top 1136
+_ID 699
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 692
+_PontaB 282
+Pontos
+Ponto
+_Left 2134
+_Top 830
+_Left 2115
+_Top 830
+_Left 2115
+_Top 830
+_Left 2095
+_Top 830
+_ID 701
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 691
+_PontaB 293
+Pontos
+Ponto
+_Left 1930
+_Top 917
+_Left 1910
+_Top 917
+_Left 1910
+_Top 907
+_Left 1853
+_Top 907
+_Left 1853
+_Top 926
+_ID 702
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 689
+_PontaB 293
+Pontos
+Ponto
+_Left 1928
+_Top 933
+_Left 1909
+_Top 933
+_Left 1909
+_Top 933
+_Left 1871
+_Top 933
+_ID 703
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 707
+_PontaB 65
+Pontos
+Ponto
+_Left 2064
+_Top 492
+_Left 2045
+_Top 492
+_Left 2045
+_Top 492
+_Left 2025
+_Top 492
+_ID 708
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 717
+_PontaB 112
+Pontos
+Ponto
+_Left 1079
+_Top 343
+_Left 1067
+_Top 343
+_Left 1067
+_Top 397
+_ID 725
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 722
+_PontaB 112
+Pontos
+Ponto
+_Left 1101
+_Top 373
+_Left 1089
+_Top 373
+_Left 1089
+_Top 397
+_ID 726
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 120
+_PontaB 112
+Pontos
+Ponto
+_Left 952
+_Top 592
+_Left 952
+_Top 518
+_Left 1049
+_Top 518
+_Left 1049
+_Top 444
+Cardinalidade
+Bounds
+_Height 15
+_Left 1016
+_Top 454
+_Width 35
+Texto Cardinalidade_11
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 730
+_ID 729
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 741
+_PontaB 65
+Pontos
+Ponto
+_Left 1985
+_Top 534
+_Left 1976
+_Top 534
+_Left 1976
+_Top 519
+_Left 1976
+_Top 519
+_Left 1976
+_Top 519
+_Left 1976
+_Top 509
+_ID 743
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 747
+_PontaB 346
+Pontos
+Ponto
+_Left 1996
+_Top 1428
+_Left 1977
+_Top 1428
+_Left 1977
+_Top 1428
+_Left 1957
+_Top 1428
+_ID 751
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 746
+_PontaB 346
+Pontos
+Ponto
+_Left 1996
+_Top 1442
+_Left 1977
+_Top 1442
+_Left 1977
+_Top 1442
+_Left 1957
+_Top 1442
+_ID 752
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 750
+_PontaB 346
+Pontos
+Ponto
+_Left 1996
+_Top 1464
+_Left 1977
+_Top 1464
+_Left 1977
+_Top 1464
+_Left 1957
+_Top 1464
+_ID 753
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 712
+_PontaB 235
+Pontos
+Ponto
+_Left 1501
+_Top 182
+_Left 1520
+_Top 182
+_Left 1520
+_Top 182
+_Left 1540
+_Top 182
+_ID 764
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 758
+_PontaB 235
+Pontos
+Ponto
+_Left 1503
+_Top 193
+_Left 1521
+_Top 193
+_Left 1521
+_Top 193
+_Left 1540
+_Top 193
+_ID 768
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 772
+_PontaB 344
+Pontos
+Ponto
+_Left 1752
+_Top 1131
+_Left 1743
+_Top 1131
+_Left 1743
+_Top 1146
+_Left 1743
+_Top 1146
+_Left 1743
+_Top 1155
+_ID 796
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 781
+_PontaB 344
+Pontos
+Ponto
+_Left 1735
+_Top 1116
+_Left 1726
+_Top 1116
+_Left 1726
+_Top 1138
+_Left 1726
+_Top 1138
+_Left 1726
+_Top 1155
+_ID 797
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 777
+_PontaB 344
+Pontos
+Ponto
+_Left 1719
+_Top 1101
+_Left 1710
+_Top 1101
+_Left 1710
+_Top 1131
+_Left 1710
+_Top 1131
+_Left 1710
+_Top 1155
+_ID 798
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 778
+_PontaB 344
+Pontos
+Ponto
+_Left 1700
+_Top 1086
+_Left 1691
+_Top 1086
+_Left 1691
+_Top 1123
+_Left 1691
+_Top 1123
+_Left 1691
+_Top 1155
+_ID 799
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 788
+_PontaB 344
+Pontos
+Ponto
+_Left 1685
+_Top 1071
+_Left 1676
+_Top 1071
+_Left 1676
+_Top 1116
+_Left 1676
+_Top 1116
+_Left 1676
+_Top 1155
+_ID 802
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 789
+_PontaB 344
+Pontos
+Ponto
+_Left 1671
+_Top 1056
+_Left 1662
+_Top 1056
+_Left 1662
+_Top 1108
+_Left 1662
+_Top 1108
+_Left 1662
+_Top 1155
+_ID 804
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 314
+_PontaB 813
+Pontos
+Ponto
+_Left 1469
+_Top 824
+_Left 1439
+_Top 824
+_Left 1439
+_Top 751
+_Left 1491
+_Top 751
+_ID 816
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 815
+_PontaB 314
+Pontos
+Ponto
+_Left 1496
+_Top 768
+_Left 1487
+_Top 768
+_Left 1487
+_Top 790
+_Left 1487
+_Top 790
+_Left 1487
+_Top 817
+_ID 818
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 812
+_PontaB 314
+Pontos
+Ponto
+_Left 1534
+_Top 783
+_Left 1525
+_Top 783
+_Left 1525
+_Top 798
+_Left 1525
+_Top 798
+_Left 1525
+_Top 817
+_ID 822
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 824
+_PontaB 316
+Pontos
+Ponto
+_Left 1267
+_Top 1023
+_Left 1258
+_Top 1023
+_Left 1258
+_Top 1000
+_Left 1258
+_Top 1000
+_Left 1258
+_Top 1000
+_Left 1258
+_Top 983
+_ID 827
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 826
+_PontaB 316
+Pontos
+Ponto
+_Left 1306
+_Top 1008
+_Left 1297
+_Top 1008
+_Left 1297
+_Top 993
+_Left 1297
+_Top 993
+_Left 1297
+_Top 993
+_Left 1297
+_Top 983
+_ID 828
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 835
+_PontaB 76
+Pontos
+Ponto
+_Left 2697
+_Top 1222
+_Left 2676
+_Top 1222
+_Left 2676
+_Top 1222
+_Left 2655
+_Top 1222
+_ID 849
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 832
+_PontaB 76
+Pontos
+Ponto
+_Left 2697
+_Top 1203
+_Left 2676
+_Top 1203
+_Left 2676
+_Top 1203
+_Left 2655
+_Top 1203
+_ID 850
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 831
+_PontaB 76
+Pontos
+Ponto
+_Left 2697
+_Top 1187
+_Left 2676
+_Top 1187
+_Left 2676
+_Top 1187
+_Left 2655
+_Top 1187
+_ID 851
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 844
+_PontaB 80
+Pontos
+Ponto
+_Left 2809
+_Top 881
+_Left 2791
+_Top 881
+_Left 2791
+_Top 881
+_Left 2773
+_Top 881
+_ID 853
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 843
+_PontaB 80
+Pontos
+Ponto
+_Left 2809
+_Top 897
+_Left 2791
+_Top 897
+_Left 2791
+_Top 897
+_Left 2773
+_Top 897
+_ID 854
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 858
+_PontaB 9
+Pontos
+Ponto
+_Left 2326
+_Top 625
+_Left 2317
+_Top 625
+_Left 2317
+_Top 647
+_Left 2317
+_Top 647
+_Left 2317
+_Top 664
+_ID 871
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 862
+_PontaB 9
+Pontos
+Ponto
+_Left 2347
+_Top 640
+_Left 2338
+_Top 640
+_Left 2338
+_Top 655
+_Left 2338
+_Top 655
+_Left 2338
+_Top 664
+_ID 872
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 837
+_PontaB 89
+Pontos
+Ponto
+_Left 2691
+_Top 1044
+_Left 2672
+_Top 1044
+_Left 2672
+_Top 1043
+_Left 2652
+_Top 1043
+_ID 875
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 673
+_PontaB 36
+Pontos
+Ponto
+_Left 2349
+_Top 1844
+_Left 2340
+_Top 1844
+_Left 2340
+_Top 1819
+_Left 2340
+_Top 1819
+_Left 2340
+_Top 1819
+_Left 2340
+_Top 1800
+_ID 878
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 886
+_PontaB 286
+Pontos
+Ponto
+_Left 1971
+_Top 1112
+_Left 1952
+_Top 1112
+_Left 1952
+_Top 1112
+_Left 1932
+_Top 1112
+_ID 888
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 24
+_PontaB 10
+Pontos
+Ponto
+_Left 1851
+_Top 1673
+_Left 1913
+_Top 1673
+_Left 1913
+_Top 1674
+_Left 1975
+_Top 1674
+Cardinalidade
+Bounds
+_Height 15
+_Left 1936
+_Top 1661
+_Width 35
+Texto Cardinalidade_37
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 2
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 898
+_ID 897
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 5
+_PontaB 15
+Pontos
+Ponto
+_Left 1440
+_Top 1470
+_Left 1440
+_Top 1511
+_Left 1440
+_Top 1511
+_Left 1440
+_Top 1553
+Cardinalidade
+Bounds
+_Height 15
+_Left 1407
+_Top 1480
+_Width 35
+Texto Cardinalidade_38
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 3
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 900
+_ID 899
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 15
+_PontaB 7
+Pontos
+Ponto
+_Left 1440
+_Top 1599
+_Left 1440
+_Top 1681
+_Left 1535
+_Top 1681
+Cardinalidade
+Bounds
+_Height 15
+_Left 1496
+_Top 1668
+_Width 35
+Texto Cardinalidade_39
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 1
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 902
+_ID 901
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 171
+_PontaB 191
+Pontos
+Ponto
+_Left 1025
+_Top 1128
+_Left 1025
+_Top 1048
+_Left 1026
+_Top 1048
+_Left 1026
+_Top 967
+Cardinalidade
+Bounds
+_Height 15
+_Left 992
+_Top 1109
+_Width 35
+Texto Cardinalidade_40
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 2
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 905
+_ID 904
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 293
+_PontaB 282
+Pontos
+Ponto
+_Left 1833
+_Top 917
+_Left 1833
+_Top 877
+_Left 2040
+_Top 877
+_Left 2040
+_Top 838
+Cardinalidade
+Bounds
+_Height 15
+_Left 2007
+_Top 848
+_Width 35
+Texto Cardinalidade_41
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 908
+_ID 907
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 349
+_PontaB 346
+Pontos
+Ponto
+_Left 1907
+_Top 1341
+_Left 1907
+_Top 1383
+_Left 1906
+_Top 1383
+_Left 1906
+_Top 1425
+Cardinalidade
+Bounds
+_Height 15
+_Left 1873
+_Top 1406
+_Width 35
+Texto Cardinalidade_42
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 3
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 915
+_ID 914
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 953
+_PontaB 112
+Pontos
+Ponto
+_Left 1065
+_Top 311
+_Left 1053
+_Top 311
+_Left 1053
+_Top 397
+_ID 954
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 1077
+_PontaB 80
+Pontos
+Ponto
+_Left 2809
+_Top 864
+_Left 2791
+_Top 864
+_Left 2791
+_Top 864
+_Left 2773
+_Top 864
+_ID 1078
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 1130
+_PontaB 225
+Pontos
+Ponto
+_Left 2367
+_Top 205
+_Left 2358
+_Top 205
+_Left 2358
+_Top 246
+_Left 2358
+_Top 246
+_Left 2358
+_Top 280
+_ID 1131
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 1301
+_PontaB 282
+Pontos
+Ponto
+_Left 2134
+_Top 801
+_Left 2115
+_Top 801
+_Left 2115
+_Top 801
+_Left 2095
+_Top 801
+_ID 1302
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 1311
+_PontaB 36
+Pontos
+Ponto
+_Left 2299
+_Top 1861
+_Left 2290
+_Top 1861
+_Left 2290
+_Top 1827
+_Left 2290
+_Top 1827
+_Left 2290
+_Top 1827
+_Left 2290
+_Top 1800
+_ID 1315
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 1323
+_PontaB 235
+Pontos
+Ponto
+_Left 1593
+_Top 325
+_Left 1593
+_Top 269
+_Left 1593
+_Top 269
+_Left 1593
+_Top 214
+Cardinalidade
+Bounds
+_Height 15
+_Left 1560
+_Top 224
+_Width 35
+Texto Cardinalidade_43
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 2
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 1326
+_ID 1325
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 1323
+_PontaB 1318
+Pontos
+Ponto
+_Left 1537
+_Top 348
+_Left 1472
+_Top 348
+_Left 1472
+_Top 348
+_Left 1407
+_Top 348
+Cardinalidade
+Bounds
+_Height 15
+_Left 1417
+_Top 335
+_Width 35
+Texto Cardinalidade_44
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 1330
+_ID 1329
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 1344
+_PontaB 1340
+Pontos
+Ponto
+_Left 1381
+_Top 197
+_Left 1400
+_Top 197
+_Left 1400
+_Top 204
+_Left 1419
+_Top 204
+_ID 1345
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 235
+_PontaB 1340
+Pontos
+Ponto
+_Left 1540
+_Top 204
+_Left 1521
+_Top 204
+_Left 1521
+_Top 204
+_Left 1503
+_Top 204
+_ID 1352
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 1342
+_PontaB 1340
+Pontos
+Ponto
+_Left 1382
+_Top 212
+_Left 1400
+_Top 212
+_Left 1400
+_Top 204
+_Left 1419
+_Top 204
+_ID 1366
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 1318
+_PontaB 760
+Pontos
+Ponto
+_Left 1365
+_Top 327
+_Left 1365
+_Top 316
+_Left 1365
+_Top 316
+_Left 1365
+_Top 300
+_Left 1374
+_Top 300
+_ID 1369
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 1318
+_PontaB 1336
+Pontos
+Ponto
+_Left 1324
+_Top 327
+_Left 1324
+_Top 309
+_Left 1324
+_Top 309
+_Left 1324
+_Top 285
+_Left 1333
+_Top 285
+_ID 1370
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 235
+_PontaB 1415
+Pontos
+Ponto
+_Left 1587
+_Top 167
+_Left 1587
+_Top 158
+_Left 2706
+_Top 158
+_Left 2706
+_Top 343
+Cardinalidade
+Bounds
+_Height 15
+_Left 1554
+_Top 150
+_Width 35
+Texto Cardinalidade_45
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 2
+MovimentacaoManual
+_Valor true
+Papel
+_Valor
+_ID 1417
+_ID 1416
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 1415
+_PontaB 80
+Pontos
+Ponto
+_Left 2706
+_Top 393
+_Left 2706
+_Top 625
+_Left 2706
+_Top 625
+_Left 2706
+_Top 856
+Cardinalidade
+Bounds
+_Height 15
+_Left 2672
+_Top 835
+_Width 35
+Texto Cardinalidade_46
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 1
+MovimentacaoManual
+_Valor true
+Papel
+_Valor
+_ID 1419
+_ID 1418
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 9
+_PontaB 1538
+Pontos
+Ponto
+_Left 2302
+_Top 711
+_Left 2302
+_Top 827
+_Left 2303
+_Top 827
+_Left 2303
+_Top 944
+Cardinalidade
+Bounds
+_Height 15
+_Left 2269
+_Top 721
+_Width 35
+Texto Cardinalidade_47
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 0
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 1540
+_ID 1539
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 1538
+_PontaB 36
+Pontos
+Ponto
+_Left 2303
+_Top 994
+_Left 2303
+_Top 1374
+_Left 2304
+_Top 1374
+_Left 2304
+_Top 1753
+Cardinalidade
+Bounds
+_Height 15
+_Left 2271
+_Top 1734
+_Width 35
+Texto Cardinalidade_48
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+TamanhoAutmatico
+_Valor true
+Card
+_Valor 1
+MovimentacaoManual
+_Valor false
+Papel
+_Valor
+_ID 1545
+_ID 1544
+Tag
+_LinhaMestre -1
+Dashed
+_Valor false
+Ancorado
+_Valor false
+TemSetaPontaA
+_Valor false
+TemSetaPontaB
+_Valor false
+SetaAberta
+_Valor true
+SetaLargura
+_Valor 10
+Inteligente
+_Valor true
+Largura
+_Valor 1
+Ligacoes
+_PontaA 1569
+_PontaB 36
+Pontos
+Ponto
+_Left 2365
+_Top 1827
+_Left 2356
+_Top 1827
+_Left 2356
+_Top 1800
+_ID 1570
+EntidadeAssociativa
+Bounds
+_Height 58
+_Left 1870
+_Top 454
+_Width 158
+Texto Contrato
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+AtributosOcultos
+_Valor
+Relacionamento
+Texto Assinar
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+_ID 64
+_ID 65
+Atributo
+Bounds
+_Height 10
+_Left 1864
+_Top 608
+_Width 54
+Texto idAdm
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 365
+Bounds
+_Height 10
+_Left 1865
+_Top 623
+_Width 50
+Texto nome
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 369
+Bounds
+_Height 10
+_Left 1865
+_Top 640
+_Width 53
+Texto senha
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 374
+Bounds
+_Height 10
+_Left 1992
+_Top 408
+_Width 77
+Texto idContrato
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 377
+Bounds
+_Height 12
+_Left 2068
+_Top 457
+_Width 129
+Texto prazo de expiracao
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 378
+Bounds
+_Height 10
+_Left 2068
+_Top 470
+_Width 46
+Texto valor
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 380
+Bounds
+_Height 11
+_Left 2009
+_Top 423
+_Width 101
+Texto prazo de inicio
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 381
+Bounds
+_Height 12
+_Left 2381
+_Top 220
+_Width 140
+Texto status do pagamento
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 396
+Bounds
+_Height 11
+_Left 2001
+_Top 1606
+_Width 146
+Texto login do administrador
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 400
+Bounds
+_Height 10
+_Left 2015
+_Top 1622
+_Width 153
+Texto senha do administrador
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 401
+Bounds
+_Height 12
+_Left 2390
+_Top 237
+_Width 138
+Texto forma de pagamento
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 402
+Bounds
+_Height 10
+_Left 2406
+_Top 254
+_Width 43
+Texto data
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 423
+Bounds
+_Height 10
+_Left 1569
+_Top 661
+_Width 60
+Texto servico
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 442
+Bounds
+_Height 10
+_Left 1606
+_Top 1623
+_Width 45
+Texto login
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 443
+Bounds
+_Height 10
+_Left 1620
+_Top 1638
+_Width 53
+Texto senha
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 445
+Bounds
+_Height 10
+_Left 1463
+_Top 1361
+_Width 67
+Texto idCliente
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 450
+Bounds
+_Height 10
+_Left 1337
+_Top 506
+_Width 114
+Texto ramo de atuacao
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 1
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 452
+Bounds
+_Height 10
+_Left 1471
+_Top 1376
+_Width 50
+Texto nome
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 453
+Bounds
+_Height 10
+_Left 1478
+_Top 1391
+_Width 64
+Texto telefone
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 457
+Bounds
+_Height 10
+_Left 1584
+_Top 1384
+_Width 39
+Texto ddd
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 459
+Bounds
+_Height 10
+_Left 1584
+_Top 1399
+_Width 62
+Texto numero
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 461
+Bounds
+_Height 11
+_Left 1405
+_Top 475
+_Width 43
+Texto cnpj
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 1
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 481
+Bounds
+_Height 10
+_Left 1070
+_Top 1102
+_Width 70
+Texto idTiquete
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 482
+Bounds
+_Height 10
+_Left 1549
+_Top 676
+_Width 43
+Texto data
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 483
+Bounds
+_Height 10
+_Left 1531
+_Top 691
+_Width 46
+Texto valor
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 484
+Bounds
+_Height 10
+_Left 1399
+_Top 488
+_Width 50
+Texto nome
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 1
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 485
+Bounds
+_Height 10
+_Left 1113
+_Top 1139
+_Width 46
+Texto valor
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 518
+Bounds
+_Height 10
+_Left 1113
+_Top 1150
+_Width 108
+Texto hora de entrada
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 524
+Bounds
+_Height 10
+_Left 1113
+_Top 1166
+_Width 95
+Texto hora de saida
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 526
+Bounds
+_Height 10
+_Left 1119
+_Top 813
+_Width 67
+Texto situacao
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 538
+Bounds
+_Height 10
+_Left 1076
+_Top 326
+_Width 118
+Texto qtdeVagasCliente
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 539
+Bounds
+_Height 10
+_Left 1119
+_Top 797
+_Width 102
+Texto preco por hora
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 540
+Bounds
+_Height 10
+_Left 1119
+_Top 783
+_Width 96
+Texto idVagaCliente
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 541
+Bounds
+_Height 11
+_Left 855
+_Top 791
+_Width 96
+Texto idVagaLojista
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 550
+Bounds
+_Height 10
+_Left 855
+_Top 811
+_Width 67
+Texto situacao
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 567
+Bounds
+_Height 10
+_Left 1063
+_Top 292
+_Width 120
+Texto idEstacionamento
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 665
+Bounds
+_Height 10
+_Left 1094
+_Top 356
+_Width 97
+Texto total de vagas
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 666
+Bounds
+_Height 10
+_Left 2353
+_Top 1842
+_Width 67
+Texto situacao
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 673
+Bounds
+_Height 10
+_Left 2113
+_Top 940
+_Width 67
+Texto idClasse
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 676
+Bounds
+_Height 10
+_Left 2129
+_Top 955
+_Width 39
+Texto tipo
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 682
+Bounds
+_Height 10
+_Left 1932
+_Top 931
+_Width 43
+Texto data
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 689
+Bounds
+_Height 10
+_Left 1975
+_Top 1123
+_Width 75
+Texto descricao
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 690
+Bounds
+_Height 10
+_Left 1934
+_Top 915
+_Width 90
+Texto local achado
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 691
+Bounds
+_Height 10
+_Left 2138
+_Top 828
+_Width 82
+Texto localizacao
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 692
+Bounds
+_Height 10
+_Left 1975
+_Top 1134
+_Width 50
+Texto nome
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 697
+Bounds
+_Height 10
+_Left 2068
+_Top 490
+_Width 54
+Texto status
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 707
+Bounds
+_Height 10
+_Left 1433
+_Top 180
+_Width 70
+Texto idEspaco
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 1
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 712
+Bounds
+_Height 10
+_Left 1083
+_Top 341
+_Width 81
+Texto fluxo diario
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 717
+Bounds
+_Height 10
+_Left 1105
+_Top 371
+_Width 115
+Texto valor arrecadado
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 722
+Bounds
+_Height 10
+_Left 1989
+_Top 532
+_Width 107
+Texto tipo de contrato
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 741
+Bounds
+_Height 10
+_Left 2000
+_Top 1440
+_Width 50
+Texto nome
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 746
+Bounds
+_Height 10
+_Left 2000
+_Top 1426
+_Width 123
+Texto endereco de email
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 747
+Bounds
+_Height 10
+_Left 2000
+_Top 1462
+_Width 53
+Texto senha
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 750
+Bounds
+_Height 10
+_Left 1437
+_Top 191
+_Width 68
+Texto tamanho
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 1
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 758
+Bounds
+_Height 10
+_Left 1378
+_Top 298
+_Width 126
+Texto forma de utilizacao
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 760
+Bounds
+_Height 10
+_Left 1756
+_Top 1129
+_Width 66
+Texto idEvento
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 772
+Bounds
+_Height 10
+_Left 1723
+_Top 1099
+_Width 39
+Texto tipo
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 777
+Bounds
+_Height 10
+_Left 1704
+_Top 1084
+_Width 43
+Texto data
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 778
+Bounds
+_Height 10
+_Left 1739
+_Top 1114
+_Width 50
+Texto nome
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 781
+Bounds
+_Height 10
+_Left 1689
+_Top 1069
+_Width 75
+Texto descricao
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 788
+Bounds
+_Height 10
+_Left 1675
+_Top 1054
+_Width 45
+Texto local
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 789
+Bounds
+_Height 10
+_Left 1538
+_Top 781
+_Width 46
+Texto valor
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 812
+Bounds
+_Height 10
+_Left 1494
+_Top 749
+_Width 81
+Texto quantidade
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 813
+Bounds
+_Height 10
+_Left 1500
+_Top 766
+_Width 103
+Texto tipo de produto
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 815
+Bounds
+_Height 10
+_Left 1271
+_Top 1021
+_Width 78
+Texto idFraldario
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 824
+Bounds
+_Height 10
+_Left 1310
+_Top 1006
+_Width 138
+Texto situacao de produtos
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 826
+Bounds
+_Height 10
+_Left 2701
+_Top 1185
+_Width 93
+Texto idFornecedor
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 831
+Bounds
+_Height 10
+_Left 2701
+_Top 1201
+_Width 79
+Texto permissao
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 832
+Bounds
+_Height 10
+_Left 2701
+_Top 1220
+_Width 50
+Texto nome
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 835
+Bounds
+_Height 10
+_Left 2695
+_Top 1042
+_Width 106
+Texto tipo de material
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 837
+Bounds
+_Height 10
+_Left 2813
+_Top 895
+_Width 114
+Texto ramo de atuacao
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 843
+Bounds
+_Height 10
+_Left 2813
+_Top 879
+_Width 50
+Texto nome
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 844
+Bounds
+_Height 10
+_Left 2330
+_Top 623
+_Width 96
+Texto idInteressado
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 858
+Bounds
+_Height 10
+_Left 2351
+_Top 638
+_Width 50
+Texto nome
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 862
+Bounds
+_Height 10
+_Left 1975
+_Top 1110
+_Width 65
+Texto idObjeto
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 886
+Bounds
+_Height 14
+_Left 1069
+_Top 307
+_Width 114
+Texto qtdVagasLojista
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 953
+Bounds
+_Height 14
+_Left 2813
+_Top 860
+_Width 56
+Texto idLoja
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 1077
+Bounds
+_Height 14
+_Left 2371
+_Top 201
+_Width 104
+Texto idMensalidade
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 1130
+Bounds
+_Height 14
+_Left 2138
+_Top 797
+_Width 133
+Texto idAchadosPerdidos
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 1301
+Bounds
+_Height 14
+_Left 2303
+_Top 1857
+_Width 46
+Texto cnpj
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 1311
+Bounds
+_Height 10
+_Left 1337
+_Top 283
+_Width 52
+Texto idTipo
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 1336
+Bounds
+_Height 10
+_Left 1423
+_Top 202
+_Width 82
+Texto localizacao
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 1
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 1340
+Bounds
+_Height 10
+_Left 1333
+_Top 210
+_Width 51
+Texto andar
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 1
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 1342
+Bounds
+_Height 10
+_Left 1251
+_Top 195
+_Width 132
+Texto numero do corredor
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 1
+Autosize
+_Valor true
+Identificador
+_Valor false
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 1344
+Bounds
+_Height 14
+_Left 2369
+_Top 1823
+_Width 70
+Texto idLojista
+Observacao
+Dicionario
+Fonte
+_Estilo 1
+_Nome Arial
+_Tamanho 12
+Ancorado
+_Valor false
+DirecaoFromInspector
+_Valor 0
+Autosize
+_Valor true
+Identificador
+_Valor true
+Opcional
+_Valor false
+Multivalorado
+_Valor false
+CardMinFromString
+_Valor 1
+CardMaxFromString
+_Valor n
+TipoAtributo
+_Valor
+_ID 1569
+_ID 1
+_TIPO tpConceitual
+_UniversalUnicID 3EE5-56-599D-FD-2250-C1-5A

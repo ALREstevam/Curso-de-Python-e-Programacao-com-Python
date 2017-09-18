@@ -16,5 +16,4 @@ for i in range(5):
         print(10*'#' + ' O valor [{}] não estava na lista.'.format(lido))
         list.append(lido)
 
-
 print(list)

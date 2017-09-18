@@ -2,60 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d905727-46ae-4841-b56f-c285ddadd9a2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Curso em Vídeo/10 - Condições.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Curso em Vídeo/10.1 -  Nome.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Curso em Vídeo/10.2 - Nota.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Curso em Vídeo/10.4 - Desafio 28.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Curso em Vídeo/10.5 - Desafio 29.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Curso em Vídeo/10.6 - Desafio 30.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Curso em Vídeo/10.8 - Desafio 32.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Curso em Vídeo/10.9 -  Desafio 33.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.10.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.11.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.12.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.13.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.14.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.15.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.18.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.19.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.21.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.7.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.8.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.9.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercícios 5.10.1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Listagem 5.14.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introdução à programação com python/Testes/NameGenerator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introdução à programação com python/Testes/NameGenerator2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introdução à programação com python/Testes/groupMatcher.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/1 - ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/2 - ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/3 - ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/4 - ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/Arguementos padrão.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/ListRandom.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/ListasTuplasDeicionários.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/NumeroRacional.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/SerializaçãoDeObjetos.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/SobrecargaDeOperadores.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/Tratamento de exceção.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/craps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/ex2a3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/exPickle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/exShelve.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/expyadvinha.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/fromImport.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/liersDice/Dices.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/liersDice/Game.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/liersDice/HumanPlayer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/liersDice/NpcPlayer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/liersDice/Player.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/liersGame.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/oo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yt.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Teste.py" afterPath="$PROJECT_DIR$/Introdução à programação com python/Testes/Teste.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/brmxmlwhttags.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/exCarlos drummond.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/exCdrum2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/exMatch1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resolução de problemas II/find.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Curso em Vídeo/8.2 - Módulos - Emoji.py" afterPath="$PROJECT_DIR$/Curso em Vídeo/8.2 - Módulos - Emoji.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.5.py" afterPath="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.5.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resolução de problemas II/ex2a3.py" afterPath="$PROJECT_DIR$/Resolução de problemas II/ex2a3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resolução de problemas II/exPickle.py" afterPath="$PROJECT_DIR$/Resolução de problemas II/exPickle.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,6 +20,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Curso de Python$NameGenerator.coverage" NAME="NameGenerator Coverage Results" MODIFIED="1501705874746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introdução à programação com python/Testes" />
+    <SUITE FILE_PATH="coverage/Curso de Python$exCarlos_drummond.coverage" NAME="exCarlos drummond Coverage Results" MODIFIED="1504636600242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de problemas II" />
     <SUITE FILE_PATH="coverage/Curso de Python$Exercícios_5_10_1.coverage" NAME="Exercícios 5.10.1 Coverage Results" MODIFIED="1501792059336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introdução à programação com python/Exercícicios" />
     <SUITE FILE_PATH="coverage/Curso de Python$9_6___Desafio_027.coverage" NAME="9.6 - Desafio 027 Coverage Results" MODIFIED="1501692972312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo" />
     <SUITE FILE_PATH="coverage/Curso de Python$Player.coverage" NAME="Player Coverage Results" MODIFIED="1504020947661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de problemas II/liersDice" />
@@ -94,7 +49,7 @@
     <SUITE FILE_PATH="coverage/Curso de Python$ListRandom.coverage" NAME="ListRandom Coverage Results" MODIFIED="1504020574493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de problemas II" />
     <SUITE FILE_PATH="coverage/Curso de Python$Arguementos_padrão.coverage" NAME="Arguementos padrão Coverage Results" MODIFIED="1502818044324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de problemas II" />
     <SUITE FILE_PATH="coverage/Curso de Python$4___ex.coverage" NAME="4 - ex Coverage Results" MODIFIED="1502215923132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de problemas II" />
-    <SUITE FILE_PATH="coverage/Curso de Python$exPickle.coverage" NAME="exPickle Coverage Results" MODIFIED="1504478631019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de problemas II" />
+    <SUITE FILE_PATH="coverage/Curso de Python$exPickle.coverage" NAME="exPickle Coverage Results" MODIFIED="1504631916103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de problemas II" />
     <SUITE FILE_PATH="coverage/Curso de Python$Exercício_5_7.coverage" NAME="Exercício 5.7 Coverage Results" MODIFIED="1501791243450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introdução à programação com python/Exercícicios" />
     <SUITE FILE_PATH="coverage/Curso de Python$Tratamento_de_exceção.coverage" NAME="Tratamento de exceção Coverage Results" MODIFIED="1504030462520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de problemas II" />
     <SUITE FILE_PATH="coverage/Curso de Python$10_8___Desafio_32.coverage" NAME="10.8 - Desafio 32 Coverage Results" MODIFIED="1502812791373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo" />
@@ -103,6 +58,7 @@
     <SUITE FILE_PATH="coverage/Curso de Python$8_7___Desafio_020.coverage" NAME="8.7 - Desafio 020 Coverage Results" MODIFIED="1501679245780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo" />
     <SUITE FILE_PATH="coverage/Curso de Python$10___Condições.coverage" NAME="10 - Condições Coverage Results" MODIFIED="1502810981325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo" />
     <SUITE FILE_PATH="coverage/Curso de Python$10_9____Desafio_33.coverage" NAME="10.9 -  Desafio 33 Coverage Results" MODIFIED="1502817371806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo" />
+    <SUITE FILE_PATH="coverage/Curso de Python$exMatch1.coverage" NAME="exMatch1 Coverage Results" MODIFIED="1505239364739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de problemas II" />
     <SUITE FILE_PATH="coverage/Curso de Python$expyadvinha.coverage" NAME="expyadvinha Coverage Results" MODIFIED="1502818388364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de problemas II" />
     <SUITE FILE_PATH="coverage/Curso de Python$9_2___Desafio_023.coverage" NAME="9.2 - Desafio 023 Coverage Results" MODIFIED="1501685055640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo" />
     <SUITE FILE_PATH="coverage/Curso de Python$shelve.coverage" NAME="shelve Coverage Results" MODIFIED="1504477463511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de problemas II" />
@@ -114,6 +70,7 @@
     <SUITE FILE_PATH="coverage/Curso de Python$10_4___Desafio_28.coverage" NAME="10.4 - Desafio 28 Coverage Results" MODIFIED="1502811861121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo" />
     <SUITE FILE_PATH="coverage/Curso de Python$Exercício_5_12.coverage" NAME="Exercício 5.12 Coverage Results" MODIFIED="1502206990890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introdução à programação com python/Exercícicios" />
     <SUITE FILE_PATH="coverage/Curso de Python$ListasTuplasDeicionários.coverage" NAME="ListasTuplasDeicionários Coverage Results" MODIFIED="1502820581132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de problemas II" />
+    <SUITE FILE_PATH="coverage/Curso de Python$exCdrum2.coverage" NAME="exCdrum2 Coverage Results" MODIFIED="1505241517076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de problemas II" />
     <SUITE FILE_PATH="coverage/Curso de Python$craps.coverage" NAME="craps Coverage Results" MODIFIED="1502218181520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de problemas II" />
     <SUITE FILE_PATH="coverage/Curso de Python$Exercício_5_14.coverage" NAME="Exercício 5.14 Coverage Results" MODIFIED="1502209575624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introdução à programação com python/Exercícicios" />
     <SUITE FILE_PATH="coverage/Curso de Python$Exercício_5_5.coverage" NAME="Exercício 5.5 Coverage Results" MODIFIED="1501772346498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introdução à programação com python/Exercícicios" />
@@ -125,6 +82,7 @@
     <SUITE FILE_PATH="coverage/Curso de Python$Exercício_5_19__1_.coverage" NAME="Exercício 5.19 (1) Coverage Results" MODIFIED="1502213490405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introdução à programação com python/Exercícicios" />
     <SUITE FILE_PATH="coverage/Curso de Python$9___Manipulando_texto.coverage" NAME="9 - Manipulando texto Coverage Results" MODIFIED="1501683184730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo" />
     <SUITE FILE_PATH="coverage/Curso de Python$9_3___Desafio_024.coverage" NAME="9.3 - Desafio 024 Coverage Results" MODIFIED="1501688405557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo" />
+    <SUITE FILE_PATH="coverage/Curso de Python$find.coverage" NAME="find Coverage Results" MODIFIED="1505169185706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Resolução de problemas II" />
     <SUITE FILE_PATH="coverage/Curso de Python$Exercício_5_19.coverage" NAME="Exercício 5.19 Coverage Results" MODIFIED="1502210139964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introdução à programação com python/Exercícicios" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -133,36 +91,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NumeroRacional.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Resolução de problemas II/NumeroRacional.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1092">
-              <caret line="52" column="21" lean-forward="false" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SobrecargaDeOperadores.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Resolução de problemas II/SobrecargaDeOperadores.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="85" lean-forward="false" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tratamento de exceção.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Resolução de problemas II/Tratamento de exceção.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1470">
-              <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="exShelve.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Resolução de problemas II/exShelve.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -175,21 +103,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exPickle.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="exPickle.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Resolução de problemas II/exPickle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="130" column="0" lean-forward="false" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+            <state relative-caret-position="21">
+              <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shelve.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/shelve.py">
+      <file leaf-file-name="exCarlos drummond.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resolução de problemas II/exCarlos drummond.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2058">
-              <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+            <state relative-caret-position="-567">
+              <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exCdrum2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Resolução de problemas II/exCdrum2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exMatch1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resolução de problemas II/exMatch1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -200,36 +148,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
               <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="expyadvinha.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Resolução de problemas II/expyadvinha.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="65" lean-forward="false" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex2a3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Resolução de problemas II/ex2a3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HumanPlayer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Resolução de problemas II/liersDice/HumanPlayer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -254,6 +172,8 @@
       <find>print</find>
       <find>randint</find>
       <find>CPickle</find>
+      <find>Entidade</find>
+      <find>ATRIBUTO</find>
     </findStrings>
     <replaceStrings>
       <replace>Pickle</replace>
@@ -265,11 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Introdução à programação com python/Testes/groupMatcher.py" />
-        <option value="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.11.py" />
-        <option value="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.12.py" />
-        <option value="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.13.py" />
-        <option value="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.14.py" />
         <option value="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.15.py" />
         <option value="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Listagem 5.20.py" />
         <option value="$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.18.py" />
@@ -296,7 +211,6 @@
         <option value="$PROJECT_DIR$/Resolução de problemas II/craps.py" />
         <option value="$PROJECT_DIR$/Resolução de problemas II/Arguementos padrão.py" />
         <option value="$PROJECT_DIR$/Resolução de problemas II/expyadvinha.py" />
-        <option value="$PROJECT_DIR$/Resolução de problemas II/ex2a3.py" />
         <option value="$PROJECT_DIR$/Resolução de problemas II/ListasTuplasDeicionários.py" />
         <option value="$PROJECT_DIR$/Resolução de problemas II/rand.py" />
         <option value="$PROJECT_DIR$/Resolução de problemas II/liersGame.py" />
@@ -316,6 +230,12 @@
         <option value="$PROJECT_DIR$/Resolução de problemas II/shelve.py" />
         <option value="$PROJECT_DIR$/Resolução de problemas II/exShelve.py" />
         <option value="$PROJECT_DIR$/Resolução de problemas II/exPickle.py" />
+        <option value="$PROJECT_DIR$/Resolução de problemas II/exCarlos drummond.py" />
+        <option value="$PROJECT_DIR$/Resolução de problemas II/brmxmlwhttags.txt" />
+        <option value="$PROJECT_DIR$/Resolução de problemas II/find.py" />
+        <option value="$PROJECT_DIR$/Resolução de problemas II/ex2a3.py" />
+        <option value="$PROJECT_DIR$/Resolução de problemas II/exMatch1.py" />
+        <option value="$PROJECT_DIR$/Resolução de problemas II/exCdrum2.py" />
       </list>
     </option>
   </component>
@@ -328,7 +248,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1378" />
     <option name="height" value="754" />
   </component>
   <component name="ProjectView">
@@ -346,6 +266,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -403,7 +324,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -423,79 +343,7 @@
       <recent name="C:\Users\andre\Desktop\Curso de Python\Curso em Vídeo\music" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exPickle">
-    <configuration default="false" name="NumeroRacional" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Resolução de problemas II" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Curso de Python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Resolução de problemas II/NumeroRacional.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Player" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Resolução de problemas II/liersDice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Curso de Python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Resolução de problemas II/liersDice/Player.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Tratamento de exceção" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Resolução de problemas II" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Curso de Python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Resolução de problemas II/Tratamento de exceção.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="shelve" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Resolução de problemas II" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Curso de Python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\andre\Desktop\Curso de Python\Resolução de problemas II\exShelve.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.exCdrum2">
     <configuration default="false" name="exPickle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -510,6 +358,78 @@
       <module name="Curso de Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Resolução de problemas II/exPickle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="exCarlos drummond" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Resolução de problemas II" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Curso de Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Resolução de problemas II/exCarlos drummond.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="exMatch1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Resolução de problemas II" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Curso de Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Resolução de problemas II/exMatch1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="find" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Resolução de problemas II" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Curso de Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Resolução de problemas II/find.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="exCdrum2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Resolução de problemas II" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Curso de Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Resolução de problemas II/exCdrum2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -729,19 +649,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.NumeroRacional" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Player" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Tratamento de exceção" />
-      <item index="3" class="java.lang.String" itemvalue="Python.shelve" />
-      <item index="4" class="java.lang.String" itemvalue="Python.exPickle" />
+      <item index="0" class="java.lang.String" itemvalue="Python.exPickle" />
+      <item index="1" class="java.lang.String" itemvalue="Python.exCarlos drummond" />
+      <item index="2" class="java.lang.String" itemvalue="Python.exMatch1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.find" />
+      <item index="4" class="java.lang.String" itemvalue="Python.exCdrum2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.exPickle" />
-        <item index="1" class="java.lang.String" itemvalue="Python.shelve" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Tratamento de exceção" />
-        <item index="3" class="java.lang.String" itemvalue="Python.NumeroRacional" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Player" />
+        <item index="0" class="java.lang.String" itemvalue="Python.exCdrum2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.exMatch1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.find" />
+        <item index="3" class="java.lang.String" itemvalue="Python.exCarlos drummond" />
+        <item index="4" class="java.lang.String" itemvalue="Python.exPickle" />
       </list>
     </recent_temporary>
   </component>
@@ -759,27 +679,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1378" height="754" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28843337" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21471927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3136646" sideWeight="0.5087848" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29192546" sideWeight="0.511713" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.48828697" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39751554" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3136646" sideWeight="0.49121523" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39751554" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -802,48 +722,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="56" lean-forward="false" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.15.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercícios 5.10.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="28" column="8" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.19.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introdução à programação com python/Exercícicios/Exercício 5.21.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Resolução de problemas II/2 - ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -1087,7 +965,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1095,7 +972,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1092">
           <caret line="52" column="21" lean-forward="false" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1103,7 +979,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="85" lean-forward="false" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1112,39 +987,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1470">
           <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resolução de problemas II/SerializaçãoDeObjetos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resolução de problemas II/expyadvinha.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="65" lean-forward="false" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resolução de problemas II/ex2a3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/shelve.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2058">
-          <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1160,8 +1002,87 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Resolução de problemas II/exPickle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="130" column="0" lean-forward="false" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+        <state relative-caret-position="21">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="162" column="0" lean-forward="false" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/shelve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-142">
+          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resolução de problemas II/brmxmlwhttags.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="8864" column="17" lean-forward="true" selection-start-line="8864" selection-start-column="17" selection-end-line="8864" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resolução de problemas II/find.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" lean-forward="true" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resolução de problemas II/ex2a3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resolução de problemas II/expyadvinha.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="65" lean-forward="false" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resolução de problemas II/SerializaçãoDeObjetos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resolução de problemas II/exCarlos drummond.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-567">
+          <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resolução de problemas II/exMatch1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resolução de problemas II/exCdrum2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
           <folding />
         </state>
       </provider>
