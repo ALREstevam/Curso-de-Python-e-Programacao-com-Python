@@ -1,3 +1,4 @@
+import
 import re
 strOrig = '''João amava Teresa que amava Raimundo
 que amava Maria que amava Joaquim que amava Lili
